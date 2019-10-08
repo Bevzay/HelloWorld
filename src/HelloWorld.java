@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println("Hello World!");
 
         int myFirstNumber = 5;  // declaration statement
+        System.out.println(myFirstNumber);
     }
 }
